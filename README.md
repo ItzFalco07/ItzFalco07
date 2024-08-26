@@ -107,14 +107,12 @@
     <a href="mailto:falcogaming2022@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
     </a>
-    falcogaming2022@gmail.com
   </li>
   <br>
   <li>
     <a href="https://www.upwork.com/freelancers/~0184cf5697571fafe6" target="_blank">
       <img src="https://img.shields.io/badge/Upwork-%2300A6D6.svg?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" style="margin-bottom: 5px;" />
     </a>
-    Upwork: [View Profile](https://www.upwork.com/freelancers/~0184cf5697571fafe6)
   </li>
 </ul>
 </div>
