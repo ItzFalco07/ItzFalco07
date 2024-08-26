@@ -16,7 +16,7 @@
 
 - A passionate Self-taught Full-Stack developer
 - Currently learning Web Development by Self
-- Personal website [link](https://falcoxd.netlify.app)
+- My personal [website](https://falcoxd.netlify.app)
 
 <br><br>
 
