@@ -14,7 +14,7 @@
 ## <picture><img src = "https://github.com/user-attachments/assets/7ffa9324-8042-4b57-ada5-5172a0d37c58" width = 20px></picture> **About me**
 <br>
 
- - A passionate Self-taught Full-Stack <b color: #ADD8E6>MERN developer and Designer</b>
+ - A passionate Self-taught Full-Stack <b color= #ADD8E6 > MERN developer and Designer</b>
  - Currently learning Web Development by Self
  - My personal <a href="https://falcoxd.netlify.app">website</a>
 
