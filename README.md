@@ -52,8 +52,11 @@
 <br>
 
 - **Cloud Hosting**:
-    ![Vercel](https://img.shields.io/badge/VERCEL-000?style=for-the-badge&logo=vercel&logoColor=white)
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+
+    ![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
+    ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+    ![Render](https://img.shields.io/badge/Render-%23646CFF.svg?style=for-the-badge&logo=render&logoColor=white)
+
     
 <br>
 
