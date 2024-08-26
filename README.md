@@ -140,7 +140,7 @@
 
 <div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+## <b>Crafting Code with Passion and Precision...✨</b>
 
 </div>
 <br>
