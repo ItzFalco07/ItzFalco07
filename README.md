@@ -13,7 +13,7 @@
 	
 ## <picture><img src = "https://github.com/user-attachments/assets/7ffa9324-8042-4b57-ada5-5172a0d37c58" width = 30px></picture> **About me**
 
-<picture> <img align="right" src="https://i.ibb.co/R66RbSf/Op-IN9ow-FTJe-Fd1l-QTYRBw.jpg" width = 80% ></picture>
+<picture> <img align="center" src="https://i.ibb.co/R66RbSf/Op-IN9ow-FTJe-Fd1l-QTYRBw.jpg" width = 80% ></picture>
 
 <br>
 
