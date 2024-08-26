@@ -11,8 +11,7 @@
 
 
 	
-## <picture><img src = "![image](https://github.com/user-attachments/assets/9709aeab-394d-4e5e-8ba3-f8a924f4f311)
-" width = 20px></picture> **About me**
+## <picture><img src = "![image](https://github.com/user-attachments/assets/7ffa9324-8042-4b57-ada5-5172a0d37c58)" width = 20px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 50px></picture>
 
